@@ -1,0 +1,13 @@
+# Секретные файлы
+db_secrets.py
+config.py
+private_code.py
+secrets.py
+
+# Служебные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Служебные файлы Jupyter
+.ipynb_checkpoints/
